@@ -36,13 +36,7 @@
 </div>
 
 ---
-
-<div>
-  <a href="https://github.com/RafaelLimaC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLimaC&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelLimaC&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-  
----
   
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
+---
