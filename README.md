@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou o Rafael Lima!
 ### Bem-vindo ao meu perfil github :books:
-### Como entrar em contato comigo:
+### Caso queira entrar em contato comigo:
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/rafael-lima-c/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:srafalimacosta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
