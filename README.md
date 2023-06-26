@@ -31,13 +31,13 @@ Bem-vindo ao meu perfil github :books: </br>Sou um Desenvolvedor Web e tenho mui
 
 <p align="left" >
   Para entrar em contato comigo: 
-  
-  <a href="https://www.linkedin.com/in/rafael-lima-c/" alt="Linkedin">
-  <img width="90" hspace="3" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="https://wa.me/5513997093303" alt="WhatsApp">
-  <img hspace="3" width="110" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
+  
+<a href="https://www.linkedin.com/in/rafael-lima-c/" alt="Linkedin">
+<img width="90" hspace="3" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+<a href="https://wa.me/5513997093303" alt="WhatsApp">
+<img hspace="3" width="110" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
 ---
 
