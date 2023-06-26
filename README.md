@@ -30,6 +30,8 @@ Bem-vindo ao meu perfil github :books: </br>Sou um Desenvolvedor Web e tenho mui
   
 
 <p align="left" >
+  Para entrar em contato comigo: 
+  
   <a href="https://www.linkedin.com/in/rafael-lima-c/" alt="Linkedin">
   <img width="90" hspace="3" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
