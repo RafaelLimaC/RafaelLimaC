@@ -28,7 +28,6 @@ Bem-vindo ao meu perfil github!</br>Sou um Desenvolvedor Web e tenho muita curio
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank"></a>
   ######
 
-  
 
 <p align="left" >
   Para entrar em contato comigo: 
