@@ -25,7 +25,6 @@ Bem-vindo ao meu perfil github!</br>Sou um Desenvolvedor Web, apaixonado por apr
   ######
 - 💡 Tenho interesse em aprender:
   
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" target="_blank"></a>
   ######
