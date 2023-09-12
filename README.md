@@ -6,7 +6,7 @@
 Bem-vindo ao meu perfil github!</br>Sou um Desenvolvedor Web, apaixonado por aprender e por Tecnologia, estou constantemente em busca de aprimorar meus conhecimentos e ter muitas experiências. Sou organizado, persistente e sempre disponível para ajudar ou aprender algo novo. 
 </p>
 
-- :zap: Linguagens, frameworks e bibliotecas que já tenho um certo domínio:
+- :zap: Linguagens, frameworks e bibliotecas que eu já uso:
   
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank"></a>
