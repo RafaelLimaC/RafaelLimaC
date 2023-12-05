@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Eu sou o Rafael Lima!👋 </h1>
 
-<img src="https://user-images.githubusercontent.com/87456011/214689477-57dfc8d7-c470-4735-b9ff-5526802ce5f1.png" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
+<img src="https://i.imgur.com/uhAxpPa.png" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
 
 <p align="left"> 
 Bem-vindo ao meu perfil github!</br>Sou um Desenvolvedor Web, apaixonado por aprender e por Tecnologia, estou constantemente em busca de aprimorar meus conhecimentos e ter muitas experiências. Sou organizado, persistente e sempre disponível para ajudar ou aprender algo novo. 
