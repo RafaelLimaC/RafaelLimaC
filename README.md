@@ -6,7 +6,7 @@
 Bem-vindo ao meu perfil github!</br>Sou um Desenvolvedor Web, apaixonado por aprender e por Tecnologia, estou constantemente em busca de aprimorar meus conhecimentos e ter muitas experiências. Sou organizado, persistente e sempre disponível para ajudar ou aprender algo novo. 
 </p>
 
-- :zap: Linguagens, frameworks e bibliotecas que eu já uso:
+- Linguagens, frameworks e bibliotecas que eu já uso:
   
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank"></a>
@@ -16,14 +16,14 @@ Bem-vindo ao meu perfil github!</br>Sou um Desenvolvedor Web, apaixonado por apr
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank"></a> 
   ######
-- :books: O que eu estou estudando:
+- O que eu estou estudando:
   
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank"></a> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
 
   ######
-- 💡 Tenho interesse em aprender:
+- Tenho interesse em aprender:
   
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" target="_blank"></a>
