@@ -15,10 +15,6 @@ Construindo soluções com:
   
 </p>
 
-  ######
-
-
-
 <p align="left" >
   Para entrar em contato comigo: 
 </p>
