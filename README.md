@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Eu sou o Rafael Lima!👋 </h1>
 
-<img src="https://i.imgur.com/uhAxpPa.png" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
+<img src="https://i.imgur.com/uhAxpPa.png" width="250px" min-width="250px" max-width="250px" align="right" alt="pc">
 
 <p align="left"> 
 Construindo soluções com: 
@@ -12,6 +12,7 @@ Construindo soluções com:
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank"></a> 
+  
 </p>
 
   ######
