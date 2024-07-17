@@ -1,9 +1,9 @@
 <img src="https://i.imgur.com/uhAxpPa.png" width="250px" min-width="250px" max-width="250px" align="right" alt="pc">
 
-### Olá! Eu sou o Rafael Lima!👋
+- Olá! Eu sou o Rafael Lima!👋
 
 <p align="left"> 
-### Construindo soluções com: 
+- Construindo soluções com: 
   
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank"></a>
