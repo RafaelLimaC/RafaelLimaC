@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/uhAxpPa.png" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
 
 <p align="left"> 
-Bem-vindo ao meu perfil github!</br>Sou um Desenvolvedor Web, estou constantemente em busca de aprimorar meus conhecimentos e adquirir mais experiência. Sou organizado, focado e sempre disponível para ajudar ou aprender algo novo. 
+Construindo soluções com: 
 </p>
 
 - Linguagens, frameworks e bibliotecas que eu já uso:
