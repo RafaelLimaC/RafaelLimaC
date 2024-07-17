@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/uhAxpPa.png" width="250px" min-width="250px" max-width="250px" align="right" alt="pc">
 
-- Olá! Eu sou o Rafael Lima!👋
+Olá! Eu sou o Rafael Lima!👋
 
 <p align="left"> 
 - Construindo soluções com: 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left" >
-### Para entrar em contato comigo: 
+- Para entrar em contato comigo: 
 </p>
   
 <a href="https://www.linkedin.com/in/rafael-lima-c/" alt="Linkedin">
