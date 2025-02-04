@@ -1,5 +1,5 @@
 <h1>Rafael Lima - FullStack</h1>
-📏› FullStack developer with 1 year's experience. <br>
+📏› FullStack developer with 1 year experience. <br>
 🌎› Praia Grande - SP<br>
 <br>
 
